@@ -12,7 +12,7 @@ body:
       required: true
 - type: textarea
   attributes:
-    label: Summary
+    label: "\U0001F4A1 Summary"
     description: What is the work, as a high-level summary?
     placeholder: |
       The purpose of this issue is to accomplish x task for y reason...
